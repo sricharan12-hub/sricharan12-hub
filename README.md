@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-🎓 Second-year student at NIAT  
+🎓 Third-year student at NIAT  
 ☁️ Exploring Cloud (AWS), Docker & Backend Systems  
 🔥 Passionate about learning new technologies & building real-world projects  
 ⚡ I enjoy turning ideas into interactive web applications  
