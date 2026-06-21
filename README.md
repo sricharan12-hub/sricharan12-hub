@@ -86,14 +86,16 @@
 🛒 **E-commerce UI** – Responsive design with filters & cart  
 
 ---
-
 ## 📊 GitHub Stats
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SriCharan12-hub&theme=tokyonight)
+
+![SriCharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriCharan12-hub&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan12-hub&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=SriCharan12-hub&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriCharan12-hub&theme=tokyonight&v=2)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriCharan12-hub&theme=tokyonight)
 
 ---
 
