@@ -88,7 +88,6 @@
 ---
 ## 📊 GitHub Stats
 
-![SriCharan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriCharan12-hub&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan12-hub&layout=compact&theme=tokyonight)
 
