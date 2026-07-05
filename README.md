@@ -48,10 +48,11 @@
 ---
 
 ### ☁️ Cloud & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-
----
+![Railway](https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ### 📈 Analytics & Monitoring
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
