@@ -1,3 +1,5 @@
+<img src="assets/dark.svg" alt="Sri Charan — GitHub Profile Header" width="100%"/>
+
 # 👋 Hi, I'm Sri Charan
 
 💡 **Cloud & DevOps Enthusiast | MERN Stack | Real-Time Apps Builder**  
