@@ -95,7 +95,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan12-hub&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=SriCharan12-hub&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.vercel.app?user=SriCharan12-hub&theme=dracula&hide_border=true)](https://github.com/SriCharan12-hub)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriCharan12-hub&theme=tokyonight)
 
