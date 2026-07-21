@@ -92,11 +92,11 @@
 ## 📊 GitHub Stats
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan12-hub&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SriCharan12-hub&layout=compact&theme=tokyonight&langs_count=8)
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.vercel.app?user=SriCharan12-hub&theme=dracula&hide_border=true)](https://github.com/SriCharan12-hub)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriCharan12-hub&theme=tokyo-night)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriCharan12-hub&theme=tokyonight)
 
