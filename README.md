@@ -60,7 +60,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 <table align="center">
   <tr>
     <td align="center" valign="top" width="420"><img src="./assets/contributions-2026.svg" width="400" alt="Contributions in 2026"></td>
-    <td align="center" valign="top" width="420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan12-hub&layout=donut&hide_border=true&langs_count=6&card_width=400" width="400" alt="Top languages"></td>
+    <td align="center" valign="top" width="420"><img src="./assets/languages.svg" width="400" alt="Most used languages"></td>
   </tr>
   <tr>
     <td align="center" valign="top" width="420"><img src="https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&hide_border=true&count_private=true&card_width=400" width="400" alt="GitHub stats"></td>
@@ -68,7 +68,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
   </tr>
 </table>
 
-<p align="center"><img src="./assets/daily-2026.svg" width="840" alt="Daily contributions in 2026"></p>
+<p align="center"><img src="./assets/commits-monthly.svg" width="840" alt="Commits per month in 2026"></p>
 
 ---
 
