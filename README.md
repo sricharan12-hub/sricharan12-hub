@@ -13,9 +13,9 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 
 ## Highlights
 
-- **Contributor, Social Summer of Code 2026**: contributed to [Algo-Infinity-Verse](https://github.com/Eshajha19/Algo-Infinity-Verse), an open-source DSA and system design platform. Worked on bug fixes, security improvements and features involving Docker, Kubernetes, Kafka and authentication.
+- **Contributor, Social Summer of Code 2026**: contributed to [Algo-Infinity-Verse](https://github.com/Eshajha19/Algo-Infinity-Verse), an open-source DSA and system design platform. Worked on bug fixes, security improvements and features involving Docker, Kafka and authentication.
 - **Internship experience**: worked on full-stack client projects (MERN and Next.js with TypeScript). Source is private; ask me for details.
-- **Consistent contributor**: 550+ commits and 180+ pull requests in the last year.
+- **Consistent contributor**: 1,200+ commits, 200+ pull requests and 190+ issues across 70+ repositories in 2026.
 
 ---
 
@@ -27,7 +27,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 | [**AI Gmail Automation**](https://github.com/sricharan12-hub/Gmail-Automation) | n8n workflow that uses OpenAI to process Gmail messages and act on them, with a separate fault-tolerant error-handling flow. | n8n, OpenAI, Gmail API |
 | [**AI Inbox Cleaner**](https://github.com/sricharan12-hub/n8n-project) | Automated inbox hygiene: AI detects and deletes transaction emails, plus scheduled Spam and Bin cleanup. | n8n, Gemini, Gmail API |
 | [**Chat Application**](https://github.com/sricharan12-hub/Chat-application) | Real-time chat with authentication and message history. | MERN, real-time messaging |
-| [**Algo-Infinity-Verse**](https://github.com/sricharan12-hub/Algo-Infinity-Verse) | Open-source platform with 200+ algorithm visualizers for DSA, system design and CS fundamentals. My fork; I contribute through SSoC 2026. | JavaScript, Docker, Kubernetes |
+| [**Algo-Infinity-Verse**](https://github.com/sricharan12-hub/Algo-Infinity-Verse) | Open-source platform with 200+ algorithm visualizers for DSA, system design and CS fundamentals. My fork; I contribute through SSoC 2026. | JavaScript, Docker |
 
 ---
 
@@ -43,7 +43,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Cloud and DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 **Automation and AI**
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -55,18 +55,18 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 
 ---
 
-## Currently
+## 2026 in Numbers
 
-- Building production-style MERN and Next.js applications
-- Learning AWS, Kubernetes and CI/CD
-- Practicing DSA on LeetCode
+```mermaid
+pie showData title GitHub contributions in 2026
+    "Commits" : 1216
+    "Pull requests" : 205
+    "Issues" : 196
+```
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan12-hub&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan12-hub&layout=donut&hide_border=true&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&hide_border=true&count_private=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sricharan12-hub&theme=tokyo-night&hide_border=true)
 
 ---
 
