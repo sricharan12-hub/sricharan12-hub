@@ -68,8 +68,6 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
   </tr>
 </table>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sricharan12-hub&theme=tokyo-night&hide_border=true" width="840" alt="Activity graph"></p>
-
 ---
 
 **Open to internships and entry-level roles.** Reach me at [sricharanpalem07@gmail.com](mailto:sricharanpalem07@gmail.com).
