@@ -68,6 +68,8 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
   </tr>
 </table>
 
+<p align="center"><img src="./assets/daily-2026.svg" width="840" alt="Daily contributions in 2026"></p>
+
 ---
 
 **Open to internships and entry-level roles.** Reach me at [sricharanpalem07@gmail.com](mailto:sricharanpalem07@gmail.com).
