@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="230" viewBox="0 0 400 230" font-family="Segoe UI, Helvetica, Arial, sans-serif">
-<rect width="400" height="230" rx="6" fill="#fffefe"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="219" viewBox="0 0 400 219" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="400" height="219" rx="6" fill="#fffefe"/>
 <text x="25" y="35" font-size="18" font-weight="600" fill="#2f80ed">Contributions in 2026</text>
 <path d="M105.00 45.00A70 70 0 1 1 35.01 114.12L63.00 114.47A42 42 0 1 0 105.00 73.00Z" fill="#2da44e"/><path d="M35.01 114.12A70 70 0 0 1 56.69 64.34L76.02 84.60A42 42 0 0 0 63.00 114.47Z" fill="#8250df"/><path d="M56.69 64.34A70 70 0 0 1 105.00 45.00L105.00 73.00A42 42 0 0 0 76.02 84.60Z" fill="#fb8500"/>
 <text x="105" y="113" text-anchor="middle" font-size="20" font-weight="700" fill="#24292f">1,617</text>
