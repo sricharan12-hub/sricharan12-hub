@@ -1,25 +1,22 @@
-# Hi, I'm Sri Charan Palem
+<p align="center"><img src="./assets/banner.svg" width="840" alt="Sri Charan Palem, Full Stack Developer"></p>
 
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&lines=Full+Stack+Developer;Cloud+%26+DevOps+Learner;Open+Source+Contributor)
-
-**Full-stack developer (MERN, Next.js, TypeScript) building toward Cloud and DevOps.**
-Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workflows with AI, and contribute to open source.
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sri--charan--palem-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-charan-palem)
 [![Email](https://img.shields.io/badge/Email-sricharanpalem07@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sricharanpalem07@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Sricharan--122-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sricharan-122/)
 
----
-
-## Highlights
-
-- **Ranked #22 in Social Summer of Code 2026**: 3,560 points and 129 merged pull requests (71 easy, 38 medium, 20 hard) in under 4 weeks, mainly on [Algo-Infinity-Verse](https://github.com/Eshajha19/Algo-Infinity-Verse), an open-source DSA platform.
-- **Two internships**: Software Engineer Intern at Innfill.in (Zoho Catalyst) and Full Stack Developer Intern at NxtWave (Next.js and Supabase).
-- **Consistent contributor**: 1,200+ commits, 200+ pull requests and 190+ issues across 70+ repositories in 2026.
+</p>
 
 ---
 
-## Experience
+<p align="center"><img src="./assets/h-highlights.svg" width="840" alt="Highlights"></p>
+
+<p align="center"><img src="./assets/highlight-cards.svg" width="840" alt="Ranked 22 in SSoC 2026 with 129 merged PRs; two internships at Innfill.in and NxtWave; 1,200+ commits in 2026"></p>
+
+---
+
+<p align="center"><img src="./assets/h-experience.svg" width="840" alt="Experience"></p>
 
 | Role | What I did |
 |---|---|
@@ -29,7 +26,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 
 ---
 
-## Featured Projects
+<p align="center"><img src="./assets/h-projects.svg" width="840" alt="Featured Projects"></p>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -43,7 +40,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 
 ---
 
-## Tech Stack
+<p align="center"><img src="./assets/h-stack.svg" width="840" alt="Tech Stack"></p>
 
 **Frontend**
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -67,7 +64,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 
 ---
 
-## 2026 in Numbers
+<p align="center"><img src="./assets/h-numbers.svg" width="840" alt="2026 in Numbers"></p>
 
 <table align="center">
   <tr>
