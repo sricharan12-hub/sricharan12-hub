@@ -64,7 +64,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
   </tr>
   <tr>
     <td align="center" valign="top" width="420"><img src="https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&hide_border=true&count_private=true&card_width=400" width="400" alt="GitHub stats"></td>
-    <td align="center" valign="top" width="420"><img src="https://github-readme-stats.vercel.app/api/streak?username=sricharan12-hub&hide_border=true" width="400" alt="Streak"></td>
+    <td align="center" valign="top" width="420"><img src="https://streak-stats.demolab.com/?user=sricharan12-hub&hide_border=true" width="400" alt="Streak"></td>
   </tr>
 </table>
 
