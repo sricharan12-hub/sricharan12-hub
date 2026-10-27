@@ -1,139 +1,61 @@
+# Hi, I'm Sri Charan Palem
 
+**Full-stack developer (MERN, Next.js, TypeScript) building toward Cloud and DevOps.**
+Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workflows with AI, and contribute to open source.
 
-# 👋 Hi, I'm Sri Charan
-
-💡 **Cloud & DevOps Enthusiast | MERN Stack | Real-Time Apps Builder**  
-🚀 Passionate about building scalable web apps & real-time systems  
-
----
-
-## 🚀 About Me
-🎓 Third-year student at NIAT  
-☁️ Exploring Cloud (AWS), Docker & Backend Systems  
-🔥 Passionate about learning new technologies & building real-world projects  
-⚡ I enjoy turning ideas into interactive web applications  
-
-
-
-## 🌍 Open Source Experience
-
-### 🚀 Social Summer of Code (SSoC) 2026
-
-**Project Admin — Algo-Infinity-Verse**
-
-Contributed to the development and maintenance of **Algo-Infinity-Verse**, an open-source platform focused on Data Structures & Algorithms, System Design, programming languages, and Computer Science fundamentals.
-
-* 🛠️ Worked on real-world features, bug fixes, security improvements, and platform enhancements.
-* 🧩 Contributed to interactive DSA visualizers, learning modules, quizzes, and developer tools.
-* ☁️ Worked on features involving Docker, Kubernetes, Kafka, authentication, and backend functionality.
-* 🔐 Addressed security and reliability issues across the platform.
-* 🤝 Collaborated with contributors and maintainers through GitHub-based open-source workflows.
-* 📚 Gained hands-on experience in large-scale collaborative development, code review, issue tracking, and Git workflows.
-
-🔗 [View Algo-Infinity-Verse](https://github.com/sricharan12-hub/Algo-Infinity-Verse)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sri--charan--palem-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-charan-palem)
+[![Email](https://img.shields.io/badge/Email-sricharanpalem07@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sricharanpalem07@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Sricharan--122-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sricharan-122/)
 
 ---
 
-## 🌍 My Presence 
-🔗 [Instagram](https://www.instagram.com/wildcharan/?__pwa=1) 
-🔗 [LinkedIn](https://www.linkedin.com/in/sri-charan-palem) 
-🔗 [LeetCode](https://leetcode.com/u/Sricharan-122/)
+## Highlights
 
-
-
----
-## 🛠️ Tech Stack
-
-### 💻 Frontend Technologies
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Project Admin, Social Summer of Code 2026**: maintained [Algo-Infinity-Verse](https://github.com/Eshajha19/Algo-Infinity-Verse), an open-source DSA and system design platform. Reviewed contributions, fixed bugs and security issues, and shipped features using Docker, Kubernetes, Kafka and authentication.
+- **Internship experience**: worked on full-stack client projects (MERN and Next.js with TypeScript). Source is private; ask me for details.
+- **Consistent contributor**: 550+ commits and 180+ pull requests in the last year.
 
 ---
 
-### ⚙️ Backend Technologies
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+## Featured Projects
 
-
----
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+| Project | What it does | Stack |
+|---|---|---|
+| [**GenZ Store**](https://github.com/sricharan12-hub/genzstore) | Full-stack fashion e-commerce storefront and backend with Razorpay payments (UPI, cards, net banking), COD, and OAuth plus email login. | Next.js, TypeScript, Tailwind, Node.js, Express, MongoDB, Redis |
+| [**AI Gmail Automation**](https://github.com/sricharan12-hub/Gmail-Automation) | n8n workflow that uses OpenAI to process Gmail messages and act on them, with a separate fault-tolerant error-handling flow. | n8n, OpenAI, Gmail API |
+| [**AI Inbox Cleaner**](https://github.com/sricharan12-hub/n8n-project) | Automated inbox hygiene: AI detects and deletes transaction emails, plus scheduled Spam and Bin cleanup. | n8n, Gemini, Gmail API |
+| [**Chat Application**](https://github.com/sricharan12-hub/Chat-application) | Real-time chat with authentication and message history. | MERN, real-time messaging |
+| [**Algo-Infinity-Verse**](https://github.com/sricharan12-hub/Algo-Infinity-Verse) | Open-source platform with 200+ algorithm visualizers for DSA, system design and CS fundamentals. My fork; I am a project admin. | JavaScript, Docker, Kubernetes |
 
 ---
 
-### ☁️ Cloud & DevOps
+## Tech Stack
 
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Railway](https://img.shields.io/badge/Railway-black?style=for-the-badge&logo=railway)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+**Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS
+**Backend:** Node.js, Express, REST APIs, Authentication and Authorization
+**Databases:** MongoDB, SQLite, Supabase, Redis
+**Cloud and DevOps:** AWS, Docker, Kubernetes, Helm, Vercel, Railway
+**Automation and AI:** n8n, OpenAI and Gemini APIs, RAG pipelines
+**Languages:** JavaScript, TypeScript, Python, C++
+**Tools:** Git, GitHub, Postman
 
-### 📈 Analytics & Monitoring
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Microsoft Clarity](https://img.shields.io/badge/Microsoft_Clarity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-
-
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+**CS fundamentals:** Data Structures and Algorithms, Operating Systems, DBMS, Networking, OOP, System Design, SDLC
 
 ---
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## Currently
+
+- Building production-style MERN and Next.js applications
+- Learning AWS, Kubernetes and CI/CD
+- Practicing DSA on LeetCode
 
 ---
 
-## 🧠 Other Skills
+## GitHub Stats
 
-- **System Design Fundamentals**
-- **Operating Systems (OS)**
-- **Database Management Systems (DBMS)**
-- **Networking**
-- **Object-Oriented Programming (OOP)**
-- **Software Development Life Cycle (SDLC)**
-- **REST API Design & Integration**
-- **Authentication & Authorization**
-- **API Testing & Debugging**
-- **Version Control & Collaboration**
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan12-hub&layout=compact&hide_border=true)
 
 ---
 
----
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&theme=default&hide_border=true)
-
-## 🔥 GitHub Streak
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SriCharan12-hub&theme=tokyo-night)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SriCharan12-hub&theme=tokyonight)
-
----
-
-## ⚡ Fun Zone
-![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Cloud+Learner;DevOps+Enthusiast)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SriCharan12-hub&color=blue)
-
----
-
-<!-- Proudly created with GPRM -->
+**Open to internships and entry-level roles.** Reach me at [sricharanpalem07@gmail.com](mailto:sricharanpalem07@gmail.com).
