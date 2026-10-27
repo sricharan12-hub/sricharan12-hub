@@ -57,16 +57,18 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 
 ## 2026 in Numbers
 
-```mermaid
-pie showData title GitHub contributions in 2026
-    "Commits" : 1216
-    "Pull requests" : 205
-    "Issues" : 196
-```
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="420"><img src="./assets/contributions-2026.svg" width="400" alt="Contributions in 2026"></td>
+    <td align="center" valign="top" width="420"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan12-hub&layout=donut&hide_border=true&langs_count=6&card_width=400" width="400" alt="Top languages"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="420"><img src="https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&hide_border=true&count_private=true&card_width=400" width="400" alt="GitHub stats"></td>
+    <td align="center" valign="top" width="420"><img src="https://github-readme-stats.vercel.app/api/streak?username=sricharan12-hub&hide_border=true" width="400" alt="Streak"></td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sricharan12-hub&layout=donut&hide_border=true&langs_count=6)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sricharan12-hub&show_icons=true&hide_border=true&count_private=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sricharan12-hub&theme=tokyo-night&hide_border=true)
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sricharan12-hub&theme=tokyo-night&hide_border=true" width="840" alt="Activity graph"></p>
 
 ---
 
