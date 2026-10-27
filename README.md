@@ -13,7 +13,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 
 ## Highlights
 
-- **Project Admin, Social Summer of Code 2026**: maintained [Algo-Infinity-Verse](https://github.com/Eshajha19/Algo-Infinity-Verse), an open-source DSA and system design platform. Reviewed contributions, fixed bugs and security issues, and shipped features using Docker, Kubernetes, Kafka and authentication.
+- **Contributor, Social Summer of Code 2026**: contributed to [Algo-Infinity-Verse](https://github.com/Eshajha19/Algo-Infinity-Verse), an open-source DSA and system design platform. Worked on bug fixes, security improvements and features involving Docker, Kubernetes, Kafka and authentication.
 - **Internship experience**: worked on full-stack client projects (MERN and Next.js with TypeScript). Source is private; ask me for details.
 - **Consistent contributor**: 550+ commits and 180+ pull requests in the last year.
 
@@ -27,7 +27,7 @@ Third-year student at NIAT, Hyderabad. I build and ship web apps, automate workf
 | [**AI Gmail Automation**](https://github.com/sricharan12-hub/Gmail-Automation) | n8n workflow that uses OpenAI to process Gmail messages and act on them, with a separate fault-tolerant error-handling flow. | n8n, OpenAI, Gmail API |
 | [**AI Inbox Cleaner**](https://github.com/sricharan12-hub/n8n-project) | Automated inbox hygiene: AI detects and deletes transaction emails, plus scheduled Spam and Bin cleanup. | n8n, Gemini, Gmail API |
 | [**Chat Application**](https://github.com/sricharan12-hub/Chat-application) | Real-time chat with authentication and message history. | MERN, real-time messaging |
-| [**Algo-Infinity-Verse**](https://github.com/sricharan12-hub/Algo-Infinity-Verse) | Open-source platform with 200+ algorithm visualizers for DSA, system design and CS fundamentals. My fork; I am a project admin. | JavaScript, Docker, Kubernetes |
+| [**Algo-Infinity-Verse**](https://github.com/sricharan12-hub/Algo-Infinity-Verse) | Open-source platform with 200+ algorithm visualizers for DSA, system design and CS fundamentals. My fork; I contribute through SSoC 2026. | JavaScript, Docker, Kubernetes |
 
 ---
 
