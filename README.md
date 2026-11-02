@@ -1,10 +1,11 @@
-<p align="center"><img src="./assets/profile.svg" width="100%" alt="Sri Charan Palem, Full Stack Developer. Ranked 22 in SSoC 2026 with 129 merged PRs, two internships, Next.js, TypeScript and Supabase."></p>
-
 <p align="center">
+<a href="https://github.com/sricharan12-hub"><img src="https://img.shields.io/badge/GitHub-sricharan12--hub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/sri-charan-palem"><img src="https://img.shields.io/badge/LinkedIn-sri--charan--palem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/u/Sricharan-122/"><img src="https://img.shields.io/badge/LeetCode-Sricharan--122-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <a href="mailto:sricharanpalem07@gmail.com"><img src="https://img.shields.io/badge/Email-sricharanpalem07@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://leetcode.com/u/Sricharan-122/"><img src="https://img.shields.io/badge/LeetCode-Sricharan--122-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
+
+<p align="center"><img src="./assets/profile.svg" width="100%" alt="Sri Charan Palem, Full Stack Developer. Ranked 22 in SSoC 2026 with 129 merged PRs, two internships, Next.js, TypeScript and Supabase."></p>
 
 <p align="center">
 <a href="https://collegeinsiders.in"><img src="https://img.shields.io/badge/CollegeInsiders-live-0b1020?style=flat-square" alt="CollegeInsiders"></a>
